@@ -18,3 +18,5 @@ var4 = input()
 var5 = input()
 var6 = int (var4) + int (var5) 
 print(var6)
+
+print("Hi from Anup")
